@@ -35,4 +35,4 @@ surveillance cameras with resolution of 1,920*1,080
 based on the accuracy of the poses, the accuracy exceeds 97%;the accuracy of labels of gender, race, age, collecting environment and clothes are more than 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
